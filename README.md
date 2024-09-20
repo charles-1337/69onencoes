@@ -18,7 +18,7 @@ Testes e Feedback do Usuário: Validação das funcionalidades com um grupo de u
 Como Acessar
 A primeira versão do site pode ser acessada em: [69 Intenções - Loja de Produtos Eróticos](https://charles-1337.github.io/69intencoes/)
 
-![image](https://github.com/user-attachments/assets/2d37f878-32e0-4672-a49a-aadf7a96f0dc)
-![image](https://github.com/user-attachments/assets/8fb7a674-c459-4a9d-9766-3c0adbcd91c3)
+![image](https://github.com/user-attachments/assets/b09f0e41-1b0e-4adf-91f7-eab15bd36984)
+![image](https://github.com/user-attachments/assets/3f3ac7d5-fcad-4aee-b93b-ce610cf2c59b)
 
 
