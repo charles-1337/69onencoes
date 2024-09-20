@@ -1,1 +1,1 @@
-https://charles-1337.github.io/69onencoes/
+https://charles-1337.github.io/69intencoes/
